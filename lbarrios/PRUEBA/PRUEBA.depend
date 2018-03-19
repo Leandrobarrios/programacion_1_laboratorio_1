@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521471044 source:c:\test\lbarrios\prueba\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
