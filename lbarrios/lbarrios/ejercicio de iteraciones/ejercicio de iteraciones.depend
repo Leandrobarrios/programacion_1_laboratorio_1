@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521555494 source:c:\test\lbarrios\ejercicio de iteraciones\main.c
+	<stdio.h>
+	<stdlib.h>
+

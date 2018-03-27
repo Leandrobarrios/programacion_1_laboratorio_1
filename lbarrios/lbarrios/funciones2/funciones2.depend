@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1522150808 source:c:\test\lbarrios\funciones2\main.c
+	<stdio.h>
+	<stdlib.h>
+
